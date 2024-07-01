@@ -20,10 +20,10 @@ To complete this assignment, please follow the steps below:
 Once the reports are generated, answer the following questions:
 
 1.	Among properties falling in the Business category, which property generated the highest revenue in the month of June as compared to others?
-    Insight: Insight  : In category Business, Atliq Exotica generated highest revenue in the month of June as compared to others.
+    Insight : In category Business, Atliq Exotica generated highest revenue in the month of June as compared to others.
 
 2.	For Atliq Grands in the week of'W 27’, which booking platform was the most effective in generating revenue?
-    Insight  : For Atliq Grands in week 27 booking platform makeyourtrip was the most effective in generating the revenue.
+   Insight  : For Atliq Grands in week 27 booking platform makeyourtrip was the most effective in generating the revenue.
 
 3.	What was the average rating of ’Atliq Blu’ in the month of July?
-    Insight : Average rating of Atliq Blu in the month of July was 4.58
+   Insight : Average rating of Atliq Blu in the month of July was 4.58
